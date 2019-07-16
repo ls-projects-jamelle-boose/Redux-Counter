@@ -4,11 +4,14 @@
   "private": true,
   "devDependencies": {
     "enzyme": "^3.10.0",
+    "eslint": "^6.0.1",
+    "eslint-plugin-react": "^7.14.2",
     "react-scripts": "^3.0.1",
     "react-test-renderer": "^16.8.6",
     "typescript": "^3.5.3"
   },
   "dependencies": {
+    "bulma": "^0.7.5",
     "prop-types": "^15.7.2",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
